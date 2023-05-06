@@ -4,10 +4,10 @@
   * We design a project planner application for univ. student users who join various projects. This report introduces why we chose this application and similar software that is already released on the market. It also shows the database schema and E-R diagram we design in which we implement the application. Then, we demonstrate the software we made. Finally, conclusions are drawn and discussions are conducted. 
 
 
-<img width="79" alt="그림5" src="https://user-images.githubusercontent.com/90498398/236607550-bf796389-0e38-4fc8-9113-33baeadd0374.png">
-<img width="80" alt="그림6" src="https://user-images.githubusercontent.com/90498398/236607558-638928f0-168c-41ce-bfd0-9c09498b99c6.png">
-<img width="82" alt="그림7" src="https://user-images.githubusercontent.com/90498398/236607563-270e2f64-358e-4052-86b5-1ee3a3c725c0.png">
-<img width="81" alt="그림8" src="https://user-images.githubusercontent.com/90498398/236607638-afd3cf73-9519-4e4f-bf1e-4ccc09180799.png">
+<img width="120" alt="그림5" src="https://user-images.githubusercontent.com/90498398/236607550-bf796389-0e38-4fc8-9113-33baeadd0374.png">
+<img width="120" alt="그림6" src="https://user-images.githubusercontent.com/90498398/236607558-638928f0-168c-41ce-bfd0-9c09498b99c6.png">
+<img width="120" alt="그림7" src="https://user-images.githubusercontent.com/90498398/236607563-270e2f64-358e-4052-86b5-1ee3a3c725c0.png">
+<img width="120" alt="그림8" src="https://user-images.githubusercontent.com/90498398/236607638-afd3cf73-9519-4e4f-bf1e-4ccc09180799.png">
 실제 구현 화면 (a)프로젝트 (b)프로젝트 생성 중 (c) 로그인 화면 (d) 프로젝트 생성 전
 
 This repository는 우리 팀은 대학생들이 팀프로젝트 과제를 수행할 때, 더 체계적이고 계획적으로 프로젝트를 관리할 수 있는 어플리케이션을 만드는 것을 목표로 한다. 대학생들 대부분 팀 프로젝트 과제를 많이 접하게 된다. 팀 프로젝트의 경우 한 학생이 여러 프로젝트에 들어가고 한 프로젝트에 여러 사람이 들어가 있는데 이럴 경우 각 프로젝트를 전반적으로 관리하는 데이터베이스의 필요성을 느꼈고 이에 따라 본 팀은 이번 데이터베이스 프로젝트 주제를 대학생 팀 프로젝트 관리 데이터베이스로 잡았다. 
