@@ -4,10 +4,7 @@
   * We design a project planner application for univ. student users who join various projects. This report introduces why we chose this application and similar software that is already released on the market. It also shows the database schema and E-R diagram we design in which we implement the application. Then, we demonstrate the software we made. Finally, conclusions are drawn and discussions are conducted. 
 
 
-<img width="120" alt="그림5" src="https://user-images.githubusercontent.com/90498398/236607550-bf796389-0e38-4fc8-9113-33baeadd0374.png">
-<img width="120" alt="그림6" src="https://user-images.githubusercontent.com/90498398/236607558-638928f0-168c-41ce-bfd0-9c09498b99c6.png">
-<img width="120" alt="그림7" src="https://user-images.githubusercontent.com/90498398/236607563-270e2f64-358e-4052-86b5-1ee3a3c725c0.png">
-<img width="120" alt="그림8" src="https://user-images.githubusercontent.com/90498398/236607638-afd3cf73-9519-4e4f-bf1e-4ccc09180799.png">
+<img width="120" alt="그림5" src="https://user-images.githubusercontent.com/90498398/236607550-bf796389-0e38-4fc8-9113-33baeadd0374.png"><img width="120" alt="그림6" src="https://user-images.githubusercontent.com/90498398/236607558-638928f0-168c-41ce-bfd0-9c09498b99c6.png"><img width="120" alt="그림7" src="https://user-images.githubusercontent.com/90498398/236607563-270e2f64-358e-4052-86b5-1ee3a3c725c0.png"><img width="120" alt="그림8" src="https://user-images.githubusercontent.com/90498398/236607638-afd3cf73-9519-4e4f-bf1e-4ccc09180799.png">
 
 실제 구현 화면 (a)프로젝트 (b)프로젝트 생성 중 (c) 로그인 화면 (d) 프로젝트 생성 전
 
